@@ -5,6 +5,7 @@ alias startgui="sudo apt install snap qbittorrent;sudo snap install --classic vs
 alias h="sudo htop"
 alias t="tree"
 #midle
+alias inst="sudo apt install"
 alias up="sudo apt update && sudo apt upgrade"
 alias cp="cp -uR"
 alias rm="sudo rm -R"
@@ -22,4 +23,3 @@ alias glinux="git clone https://github.com/kazdopnet/linux.git"
 alias kazqop="ssh -i ~/.ssh/.kazqop kazqop@35.204.117.62"
 #apache
 alias ar="service apache2 restart"
-
