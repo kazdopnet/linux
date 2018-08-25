@@ -23,6 +23,6 @@ alias gfrontend="git clone https://github.com/kazdopnet/startfrontend.git"
 alias gbackend="git clone https://github.com/kazdopnet/startbackend.git"
 alias gsubd="git clone https://github.com/kazdopnet/subd.git"
 #ssh
-alias kazqop="ssh -i ~/.ssh/.kazqop kazqop@35.204.117.62"
+alias kazdopnet="ssh -i /home/kazqop/.ssh/.best kazqop@35.204.117.62"
 #apache
 alias ar="sudo service apache2 restart"
