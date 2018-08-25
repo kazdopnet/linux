@@ -12,7 +12,7 @@ alias rm="sudo rm -R"
 alias s="sudo su"
 alias e="exit"
 alias re="reboot"
-alias off="shutdown -P 0"
+alias off="sudo shutdown -P 0"
 alias ali=". ~/.bash_aliases"
 #git
 alias gg="git add --a;git commit -m \"standart_commit\";git push"
@@ -25,4 +25,4 @@ alias gsubd="git clone https://github.com/kazdopnet/subd.git"
 #ssh
 alias kazqop="ssh -i ~/.ssh/.kazqop kazqop@35.204.117.62"
 #apache
-alias ar="service apache2 restart"
+alias ar="sudo service apache2 restart"
